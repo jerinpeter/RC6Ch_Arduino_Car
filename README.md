@@ -20,8 +20,8 @@ This feature can used to make the robot car drift !
 
 Feel free to edit the code and use it 
 
-Note: This code was written with the FLYSKY FSi6 RC reciver , Therefore if using other RC Reciever you may need to change the PWM values 
+Note: This code was written with the FLYSKY FSi6 RC reciver , Therefore if using any other RC Reciever you may need to change the PWM values 
 
-Feel free to edit the code
+Feel free to edit the code and put in appropriate values for best performace..
 
 ENJOY!
